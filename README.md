@@ -7,3 +7,4 @@ _Creational Design Patterns:-_
 2. Builder Pattern
 3. Factory Pattern
 4. Abstract Factory Pattern
+5. Prototype Pattern
