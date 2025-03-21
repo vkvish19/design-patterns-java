@@ -13,3 +13,4 @@ _Creational Design Patterns:-_
 _Behavioural Design Patterns:-_
 
 1. Memento Pattern
+2. Observer Pattern
