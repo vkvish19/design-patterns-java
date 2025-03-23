@@ -19,3 +19,4 @@ _Behavioural Design Patterns:-_
 5. Template Method Pattern
 6. Iterator Pattern
 7. State Pattern
+8. Mediator Pattern
