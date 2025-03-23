@@ -18,3 +18,4 @@ _Behavioural Design Patterns:-_
 4. Command Pattern
 5. Template Method Pattern
 6. Iterator Pattern
+7. State Pattern
