@@ -16,3 +16,4 @@ _Behavioural Design Patterns:-_
 2. Observer Pattern
 3. Strategy Pattern
 4. Command Pattern
+5. Template Method Pattern
