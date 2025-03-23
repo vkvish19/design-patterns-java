@@ -17,3 +17,4 @@ _Behavioural Design Patterns:-_
 3. Strategy Pattern
 4. Command Pattern
 5. Template Method Pattern
+6. Iterator Pattern
