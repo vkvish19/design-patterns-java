@@ -26,3 +26,4 @@ _Structural Design Patterns:-_
 
 1. Adapter Pattern
 2. Decorator Pattern
+3. Proxy Pattern
