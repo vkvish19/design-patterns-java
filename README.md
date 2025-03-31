@@ -25,3 +25,4 @@ _Behavioural Design Patterns:-_
 _Structural Design Patterns:-_
 
 1. Adapter Pattern
+2. Decorator Pattern
