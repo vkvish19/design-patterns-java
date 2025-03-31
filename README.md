@@ -20,3 +20,8 @@ _Behavioural Design Patterns:-_
 6. Iterator Pattern
 7. State Pattern
 8. Mediator Pattern
+
+---
+_Structural Design Patterns:-_
+
+1. Adapter Pattern
