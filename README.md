@@ -29,3 +29,4 @@ _Structural Design Patterns:-_
 3. Proxy Pattern
 4. Composite Pattern
 5. Facade Pattern
+6. Flyweight Pattern
