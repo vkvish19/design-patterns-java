@@ -28,3 +28,4 @@ _Structural Design Patterns:-_
 2. Decorator Pattern
 3. Proxy Pattern
 4. Composite Pattern
+5. Facade Pattern
